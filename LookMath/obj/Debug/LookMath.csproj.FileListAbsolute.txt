@@ -1,0 +1,11 @@
+C:\Users\venhi\OneDrive\Рабочий стол\MyProject\LookMath\LookMath\bin\Debug\LookMath.exe.config
+C:\Users\venhi\OneDrive\Рабочий стол\MyProject\LookMath\LookMath\bin\Debug\LookMath.exe
+C:\Users\venhi\OneDrive\Рабочий стол\MyProject\LookMath\LookMath\bin\Debug\LookMath.pdb
+C:\Users\venhi\OneDrive\Рабочий стол\MyProject\LookMath\LookMath\obj\Debug\LookMath.csproj.AssemblyReference.cache
+C:\Users\venhi\OneDrive\Рабочий стол\MyProject\LookMath\LookMath\obj\Debug\LookMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\venhi\OneDrive\Рабочий стол\MyProject\LookMath\LookMath\obj\Debug\LookMath.Properties.Resources.resources
+C:\Users\venhi\OneDrive\Рабочий стол\MyProject\LookMath\LookMath\obj\Debug\LookMath.csproj.GenerateResource.cache
+C:\Users\venhi\OneDrive\Рабочий стол\MyProject\LookMath\LookMath\obj\Debug\LookMath.csproj.CoreCompileInputs.cache
+C:\Users\venhi\OneDrive\Рабочий стол\MyProject\LookMath\LookMath\obj\Debug\LookMath.exe
+C:\Users\venhi\OneDrive\Рабочий стол\MyProject\LookMath\LookMath\obj\Debug\LookMath.pdb
+C:\Users\venhi\OneDrive\Рабочий стол\MyProject\LookMath\LookMath\obj\Debug\LookMath.LookMath.resources
